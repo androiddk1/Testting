@@ -1,0 +1,2 @@
+include ':socket-demo', ':living-video', ':living_sdk_lib', ':mqtt-client', ':mqtt-test', ':ar-demo5', ':ar_dynamic_load12', ':ar_dynamic_load1'
+include ':socketTest_socket'
